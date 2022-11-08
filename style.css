@@ -11,6 +11,7 @@
     height: 100%;
     border: 1px solid black;
     border-radius: 8px;
+    background-color: black;
 }
 
 .navbar{
@@ -473,6 +474,7 @@
     font-size: 18px;
     line-height: 29px;
     letter-spacing: 0.02em;
+    padding-left: 400px;
 }
 
 .headphone {
@@ -754,6 +756,7 @@
     font-size: 20px;
     line-height: 24px;
     cursor: pointer;
+    margin-bottom: 80px;
 }
 
 .footer-1 {
@@ -847,8 +850,13 @@
 }
 
 .line-break {
-    color: grey;
+    margin-left: 650px;
+    width: 50%;
+    height: 0px;
+    background-color: #C5C5C5;
 }
+
+
 
 .footer-3 {
     display: flex;
